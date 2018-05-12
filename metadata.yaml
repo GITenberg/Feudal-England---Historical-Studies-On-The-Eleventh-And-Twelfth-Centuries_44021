@@ -1,0 +1,31 @@
+_repo: Feudal-England---Historical-Studies-On-The-Eleventh-And-Twelfth-Centuries_44021
+_version: 0.1.0
+alternative_title: 'Feudal England: Historical Studies on the 11th and 12th Centuries'
+covers:
+- cover_type: archival
+  image_path: 44021-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Round, John Horace
+    alias: Round, J. Horace (John Horace)
+    birthdate: 1854
+    deathdate: 1928
+    gutenberg_agent_id: '42532'
+    url: http://www.gutenberg.org/2009/agents/42532
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Normans -- Great Britain'
+- !lcsh 'Great Britain -- History -- Norman period, 1066-1154'
+- !lcsh 'Domesday book'
+- !lcsh 'Feudalism -- Great Britain'
+title: 'Feudal England: Historical Studies on the Eleventh and Twelfth Centuries'
+url: http://www.gutenberg.org/ebooks/44021
